@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "notices": [
     "notices/00.jpg",
     "notices/01.jpg",
@@ -10,8 +9,10 @@
     "notices/06.jpg",
     "notices/07.jpg",
     "notices/08.jpg",
-    "notices/09.jpg"
+    "notices/09.jpg",
+    "notices/10.jpg"
   ],
+  "version": 2,
   "thankyou": [
     "thankyou/00.jpg",
     "thankyou/01.jpg",
@@ -22,6 +23,7 @@
     "thankyou/06.jpg",
     "thankyou/07.jpg",
     "thankyou/08.jpg",
-    "thankyou/09.jpg"
+    "thankyou/09.jpg",
+    "thankyou/10.jpg"
   ]
 }
