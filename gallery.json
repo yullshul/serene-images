@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "notices": [
+    "notices/00.jpg",
+    "notices/01.jpg",
+    "notices/02.jpg",
+    "notices/03.jpg",
+    "notices/04.jpg",
+    "notices/05.jpg",
+    "notices/06.jpg",
+    "notices/07.jpg",
+    "notices/08.jpg",
+    "notices/09.jpg"
+  ],
+  "thankyou": [
+    "thankyou/00.jpg",
+    "thankyou/01.jpg",
+    "thankyou/02.jpg",
+    "thankyou/03.jpg",
+    "thankyou/04.jpg",
+    "thankyou/05.jpg",
+    "thankyou/06.jpg",
+    "thankyou/07.jpg",
+    "thankyou/08.jpg",
+    "thankyou/09.jpg"
+  ]
+}
